@@ -193,6 +193,15 @@ Repeat this command until no more unwanted rules are left.
 Upgrade Notes
 =============
 
+16.07
+-----
+Consult the `16.07 Roadmap <https://projects.xivo.io/versions/243>`_
+
+* The :ref:`bus-user_created` bus message has been added.
+* The :ref:`bus-user_edited` bus message has been added.
+* The :ref:`bus-user_deleted` bus message has been added.
+
+
 16.06
 -----
 
